@@ -1,4 +1,4 @@
-# assigment2
+# Auto Calculator 
 
 A new Flutter application.
 
