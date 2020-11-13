@@ -2,16 +2,14 @@
 
 A new Flutter application.
 
-#Features
-Basic arithmetic: plus, minus, multiply, divide, %, brackets.
-Real-Time calculating.
-Prevent to input the invalid symbol.
-Auto-resize the formula or result font size to adapt the text box's boundary.
-Supports undo and redo.
-Supports to relocate and input symbols.
-Can be used as an embedded widget or a dialog.
-[WIP] Supports to specify the result's precision.
-[WIP] Supports to copy and past the formula and the results.
+# Features
+- Basic arithmetic: plus, minus, multiply, divide, %, brackets.
+- Real-Time calculating.
+- Prevent to input the invalid symbol.
+- Auto-resize the formula or result font size to adapt the text box's boundary.
+- Supports undo and redo.
+- Supports to relocate and input symbols.
+- Can be used as an embedded widget or a dialog.
 
 ## Getting Started
 
