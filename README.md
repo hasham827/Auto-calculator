@@ -14,7 +14,7 @@ A new Flutter application.
 ## Screenshots
 
 <p align="start">
-  <img width="200" height="370" src="https://github.com/hasham827/BMI-CALCULATOR/blob/main/Screenshots/Final.png">
+  <img width="200" height="370" src="https://github.com/hasham827/auto-calculator/blob/master/Screenshots/auto.png">
  
 </p>
 ## Getting Started
