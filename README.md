@@ -11,6 +11,12 @@ A new Flutter application.
 - Supports to relocate and input symbols.
 - Can be used as an embedded widget or a dialog.
 
+## Screenshots
+
+<p align="start">
+  <img width="200" height="370" src="https://github.com/hasham827/BMI-CALCULATOR/blob/main/Screenshots/Final.png">
+ 
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
